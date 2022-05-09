@@ -16,3 +16,4 @@ Creative, dynamic and jack-of-all-trades, I'm currently looking for an apprentic
 
 📫 How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/lambert-theo/)
+ - [Website (FR)](https://theolambert.com)
