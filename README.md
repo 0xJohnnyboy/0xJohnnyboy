@@ -12,7 +12,7 @@ Creative, dynamic and jack-of-all-trades, I'm currently looking for an apprentic
 
 🌱 I’m currently learning:
   - Rust
-  - AWS
+  - Svelte
 
 📫 How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/lambert-theo/)
