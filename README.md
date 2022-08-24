@@ -2,9 +2,11 @@
 
 🔭 I’m currently working with:
   - Angular 13
+  - Typescript
+  - Astro JS
+  - Alpine JS
   - Symfony 6
   - API Platform
-  - Alpine JS
   - Docker
   - Gitlab CI, K8s
 
