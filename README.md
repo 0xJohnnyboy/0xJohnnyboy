@@ -4,7 +4,7 @@
   - Angular 13
   - Typescript
   - Astro JS
-  - Alpine JS
+  - Svelte
   - Symfony 6
   - API Platform
   - Docker
@@ -12,7 +12,6 @@
 
 🌱 I’m currently learning:
   - Rust
-  - Svelte
 
 🔗 Links:
  - [LinkedIn](https://www.linkedin.com/in/lambert-theo/)
