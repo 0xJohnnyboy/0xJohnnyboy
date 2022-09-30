@@ -3,12 +3,10 @@
 🔭 I’m currently working with:
   - Angular 13
   - Typescript
+  - NextJS
   - Astro JS
   - Svelte
-  - Symfony 6
-  - API Platform
   - Docker
-  - Gitlab CI, K8s
 
 🌱 I’m currently learning:
   - Rust
