@@ -1,9 +1,9 @@
 # Hi ! 👋🏻
 
 🔭 I’m currently working with:
-  - Angular 13
+  - Angular 14
   - Typescript
-  - NextJS
+  - .NET 6
   - Astro JS
   - Svelte
   - Docker
