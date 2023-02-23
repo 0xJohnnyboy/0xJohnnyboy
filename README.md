@@ -3,9 +3,9 @@
 🔭 I’m currently working with:
   - Angular 14
   - Typescript
+  - SvelteKit, Svelte
   - .NET 6
   - Astro JS
-  - Svelte
   - Docker
 
 🌱 I’m currently learning:
