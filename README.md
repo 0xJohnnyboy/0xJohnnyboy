@@ -11,11 +11,6 @@ _Creative, dynamic, and versatile, I am a software engineer currently employed a
   [![](https://img.shields.io/badge/.NET%206-informational?style=flat&&color=512bd4&logo=dotnet)](#)
   [![](https://img.shields.io/badge/Docker-informational?style=flat&&color=003f8c&logo=docker)](#)
 
-
-### 🌱 I’m currently learning:
-  [![](https://img.shields.io/badge/Expo-informational?style=flat&&color=3d3d3d&logo=expo)](#)
-
-
 ### 🔗 Links and socials:
  
   [![](https://img.shields.io/badge/Personal%20website%20(FR)-informational?style=flat&&color=3d3d3d&logo=astro)](https://theolambert.com)
