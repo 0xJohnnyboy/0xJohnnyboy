@@ -10,6 +10,7 @@ _Creative, dynamic, and versatile, I am a software engineer currently employed a
   
   [![](https://img.shields.io/badge/.NET%206-informational?style=flat&&color=512bd4&logo=dotnet)](#)
   [![](https://img.shields.io/badge/Docker-informational?style=flat&&color=003f8c&logo=docker)](#)
+  [![](https://img.shields.io/badge/Python-informational?style=flat&&color=ffdf76&logo=python)](#)
 
 ### 🔗 Links and socials:
  
