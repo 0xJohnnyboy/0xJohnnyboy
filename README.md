@@ -20,7 +20,7 @@ _Creative, dynamic, and multi-talented, I am a software engineer currently emplo
   
   [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&&color=0a66c2&logo=linkedin)](https://www.linkedin.com/in/lambert-theo/)
   [![](https://img.shields.io/badge/Follow-@0xJohnnyboy-informational?style=flat&&color=1d9bf0&logo=twitter)](https://x.com/_0xJohnnyboy)
-  [![](https://img.shields.io/badge/Discord-0xjohnnyboy__-informational?style=flat&logo=discord)](https://discord.com/users/0xjohnnyboy)
+  [![](https://img.shields.io/badge/Discord-0xjohnnyboy-informational?style=flat&logo=discord)](https://discord.com/users/0xjohnnyboy)
 
 
 ### 🧑‍💻 Preferences:
