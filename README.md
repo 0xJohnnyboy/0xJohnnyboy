@@ -8,9 +8,10 @@ _Creative, dynamic, and multi-talented, I am a software engineer currently emplo
   [![](https://img.shields.io/badge/Svelte/Sveltekit-informational?style=flat&&color=4a4a55&logo=svelte)](#)
   [![](https://img.shields.io/badge/Supabase-informational?style=flat&&color=3d3d3d&logo=supabase)](#)
   
-  [![](https://img.shields.io/badge/.NET%206-informational?style=flat&&color=512bd4&logo=dotnet)](#)
+  [![](https://img.shields.io/badge/.NET-informational?style=flat&&color=512bd4&logo=dotnet)](#)
   [![](https://img.shields.io/badge/Docker-informational?style=flat&&color=003f8c&logo=docker)](#)
-  [![](https://img.shields.io/badge/Python-informational?style=flat&&color=ffdf76&logo=python)](#)
+  [![](https://img.shields.io/badge/Elixir-informational?style=flat&&color=786182&logo=elixir)](#)
+  
 
 ### 🔗 Links and socials:
  
