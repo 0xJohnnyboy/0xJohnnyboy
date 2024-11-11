@@ -1,6 +1,6 @@
 # Hi ! 👋🏻
 
-_Creative, dynamic, and multi-talented, I am a software engineer currently employed at [Sumit](https://www.sumit.fr/). I'm looking for an opportunity starting november 2024 as a Software Engineer!_
+_Creative, dynamic, and multi-talented, I am a software engineer currently employed at [ONI](https://www.ordre-infirmiers.fr/). I am not looking for an opportunity at the moment._
 
 ### 🔭 I’m currently working with:
   [![](https://img.shields.io/badge/Angular-informational?style=flat&&color=fc021b&logo=angular)](#)
