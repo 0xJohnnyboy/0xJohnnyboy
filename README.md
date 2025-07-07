@@ -1,6 +1,6 @@
 # Hi ! 👋🏻
 
-_Creative, dynamic, and multi-talented, I am a software engineer currently employed at [ONI](https://www.ordre-infirmiers.fr/). I am not looking for an opportunity at the moment._
+_Creative, dynamic, and multi-talented, I am a software engineer currently employed at [ONI](https://www.ordre-infirmiers.fr/)._
 
 ### 🔭 I’m currently working with:
   [![](https://img.shields.io/badge/Angular-informational?style=flat&&color=fc021b&logo=angular)](#)
