@@ -39,6 +39,6 @@ _Creative, dynamic, and multi-talented, I am a software engineer currently emplo
   
 ---
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xJohnnyboy&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xJohnnyboy&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
