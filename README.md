@@ -36,6 +36,6 @@ _Creative, dynamic, and multi-talented, I am a software engineer currently emplo
   [![](https://img.shields.io/badge/Gruvbox-informational?style=flat&&color=3d3d3d&logo=awesomelists)](#)
   
 ---
-[![roadmap.sh](https://roadmap.sh/card/tall/67e41ac8616abc6b0b51fb0e?variant=dark&roadmaps=golang)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/67e41ac8616abc6b0b51fb0e?variant=dark)](https://roadmap.sh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xJohnnyboy&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
