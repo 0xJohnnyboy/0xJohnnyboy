@@ -1,6 +1,7 @@
 # Hi ! 👋🏻
 
-_Creative, dynamic, and multi-talented, I am a software engineer currently employed at [ONI](https://www.ordre-infirmiers.fr/)._
+Software Engineer focused on architecture and performance. Currently a Full Stack Developer @ [ONI](https://www.ordre-infirmiers.fr/), I am looking to specialize in Go Back-End Development. Committed to Software Craftsmanship principles, I am seeking an experienced team to design robust and scalable systems.
+
 
 ### 🔭 I’m currently working with:
   [![](https://img.shields.io/badge/Angular-f637e3?logo=angular)](#)
@@ -42,5 +43,4 @@ _Creative, dynamic, and multi-talented, I am a software engineer currently emplo
   
 ---
 [![roadmap.sh](https://roadmap.sh/card/tall/67e41ac8616abc6b0b51fb0e?variant=dark)](https://roadmap.sh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xJohnnyboy&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=0xJohnnyboy&layout=compact&minimum=5&sort=desc&theme=gruvbox_light)](#)
