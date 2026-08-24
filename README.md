@@ -12,5 +12,3 @@ Currently a Full Stack Developer @ [ONI](https://www.ordre-infirmiers.fr/)
   [![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lambert-theo/)
   [![](https://img.shields.io/badge/Personal%20Website%20-BC52EE?logo=astro&logoColor=fff)](https://theolambert.com)
   [![](https://img.shields.io/badge/Blog-informational?style=flat&&color=3d3d3d&logo=notion)](https://johnny-boy.notion.site/johnny-boy/What-s-on-my-mind-044a63e8544f46e2be731ae6bb17f73a)
-  
-  <img width="500" height="263" alt="cronotype-private-0xJohnnyboy" src="https://github.com/user-attachments/assets/663809c6-3ea5-4980-b9f5-19d3ef0dc754" />
