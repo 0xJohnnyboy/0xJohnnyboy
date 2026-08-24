@@ -1,7 +1,6 @@
 ## Hi ! 👋🏻
 
 Software engineer, I turn complex business problems into maintainable systems, without over-engineering.
-Currently a Full Stack Developer @ [ONI](https://www.ordre-infirmiers.fr/)
 
 
 ### ❤️‍🔥 Currently into:
